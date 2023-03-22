@@ -6,7 +6,7 @@ This is a simple French flashcard app built with Python tkinter. The app allows 
 
 To start the app, open your terminal and navigate to the directory where you've saved the `flashcards.py` file. Then run the following command:
 
-'python main.py'
+`python main.py`
 
 The app will open and you can start creating your own flashcards. To add a new flashcard, click the "Add Card" button and fill out the form with your French word or phrase and its English translation. To flip through the flashcards, click the "Next Card" button. You can also edit or delete existing flashcards by selecting them from the list and clicking the corresponding button.
 
